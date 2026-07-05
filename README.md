@@ -52,6 +52,20 @@ linux-admin-labs/
 │   └── commands.md
 ├── 04-shutdown-reboot/
 │   └── commands.md
+├── 05-disk-partitioning
+│   └── notes.md
+├── 06-filesystems-mounting
+│   └── commands.md
+├── 07-bootloaders-grub
+│   └── notes.md
+├── 08-shared-libraries
+│   └── commands.md
+├── 09-package-management-debian
+│   └── commands.md
+├── 10-package-management-rpm
+│   └── commands.md
+├── 11-linux-as-virtual-machine-guest
+│   └── notes.md
 └── README.md
 ```
 
