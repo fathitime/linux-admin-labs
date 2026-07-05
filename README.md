@@ -15,7 +15,13 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 02-boot-process | Linux boot process concepts | Completed |
 | 03-systemd-targets | systemd targets and traditional runlevels | Completed |
 | 04-shutdown-reboot | Shutdown and reboot commands | Completed |
-
+| 05-disk-partitioning | Disk partitioning concepts and tools | Completed |
+| 06-filesystems-mounting | Filesystem types and mounting commands | Completed |
+| 07-bootloaders-grub | Bootloader and GRUB concepts | Completed |
+| 08-shared-libraries | Shared library commands and concepts | Completed |
+| 09-package-management-debian | APT and dpkg package management | Completed |
+| 10-package-management-rpm | DNF and RPM package management | Completed |
+| 11-linux-as-virtual-machine-guest | Linux as a virtual machine guest | Completed |
 ---
 
 ## Topics Covered
