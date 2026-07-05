@@ -11,17 +11,19 @@ shutdown --help
 reboot --help
 systemctl poweroff --help
 systemctl reboot --help
-
+```
 ## Common Commands
-
+```bash
 sudo shutdown now
 sudo shutdown -r now
 sudo reboot
 sudo systemctl poweroff
 sudo systemctl reboot
+```
 
+
+## Notes
 ```text
-Notes
 shutdown now shuts down the system immediately.
 shutdown -r now reboots the system immediately.
 reboot restarts the system.
