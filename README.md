@@ -4,31 +4,66 @@ This repository documents my hands-on Linux administration practice while studyi
 
 The goal is to build practical Linux skills for Web Operations, Cloud Support, and DevOps-oriented roles.
 
+---
+
+## Current Learning Progress
+
+| Module | Topic | Status |
+|---|---|---|
+| 00-lab-setup | Linux lab setup with Ubuntu and Fedora | Completed |
+| 01-hardware-info | Hardware and system information commands | Completed |
+| 02-boot-process | Linux boot process concepts | Completed |
+| 03-systemd-targets | systemd targets and traditional runlevels | Completed |
+| 04-shutdown-reboot | Shutdown and reboot commands | Completed |
+
+---
+
 ## Topics Covered
 
-- Linux filesystem structure
-- Users, groups, and permissions
-- Process management
-- Package management
-- Networking basics
-- systemd services
-- Bash scripting
-- Logs and monitoring
-- Cron jobs and backups
+- Linux lab setup
+- Ubuntu and Fedora installation
+- Hardware inspection commands
+- Linux boot process
+- BIOS / UEFI concepts
+- Bootloader and kernel basics
+- systemd targets
+- Traditional Linux runlevels
+- Shutdown and reboot commands
+
+---
 
 ## Repository Structure
 
 ```text
 linux-admin-labs/
-├── 01-file-system/
-├── 02-users-groups-permissions/
-├── 03-process-management/
-├── 04-package-management/
-├── 05-networking-basics/
-├── 06-systemd-services/
-├── 07-bash-scripting/
-├── 08-logs-monitoring/
-└── 09-backup-cron/
+├── 00-lab-setup/
+│   └── README.md
+├── 01-hardware-info/
+│   └── commands.md
+├── 02-boot-process/
+│   └── notes.md
+├── 03-systemd-targets/
+│   └── commands.md
+├── 04-shutdown-reboot/
+│   └── commands.md
+└── README.md
+```
+
+---
+
+## Lab Environment
+
+I am using Linux virtual machines to practice LPIC-1 topics in a safe lab environment.
+
+Distributions used:
+
+- Ubuntu
+- Fedora
+
+The purpose of using multiple distributions is to become familiar with both Debian-based and Red Hat-based Linux environments.
+
+---
+
 
 ## Purpose
 
@@ -40,4 +75,8 @@ This project is part of my transition into:
 
 ## Background
 
-I have 15+ years experience as a web platform founder and technical project manager. I am now strengthening Linux, Docker, Terraform, and cloud infrastructure skills for relocation.
+I have 15+ years of experience as a web platform founder and technical project manager, with a background in web development, SEO, digital platforms, and SaaS product management.
+
+I am currently strengthening my Linux, Docker, Terraform, and cloud infrastructure skills for relocation opportunities.
+
+---
