@@ -13,7 +13,7 @@ systemctl list-unit-files --type=target
 systemctl isolate multi-user.target
 systemctl isolate graphical.target
 
-```text
+
 Common Targets
 systemd Target	Traditional Runlevel	Purpose
 poweroff.target          	0           Shut down the system
