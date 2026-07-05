@@ -1,4 +1,4 @@
-# Linux Admin Labs (LPIC-1)
+# Linux Admin Labs (LPIC-1) | Mohammad Fathi
 
 This repository contains my hands-on Linux practice while studying LPIC-1.
 
