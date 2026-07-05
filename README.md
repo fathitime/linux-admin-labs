@@ -22,6 +22,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 09-package-management-debian | APT and dpkg package management | Completed |
 | 10-package-management-rpm | DNF and RPM package management | Completed |
 | 11-linux-as-virtual-machine-guest | Linux as a virtual machine guest | Completed |
+| 12-command-line-basics | Bash shell, environment variables, history, PATH | Completed |
 ---
 
 ## Topics Covered
@@ -66,6 +67,8 @@ linux-admin-labs/
 │   └── commands.md
 ├── 11-linux-as-virtual-machine-guest
 │   └── notes.md
+├── 12-command line basics (103.1)
+│   └──commands.md
 └── README.md
 ```
 
