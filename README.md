@@ -1,18 +1,33 @@
 # Linux Admin Labs (LPIC-1) | Mohammad Fathi
 
-This repository contains my hands-on Linux practice while studying LPIC-1.
+This repository documents my hands-on Linux administration practice while studying LPIC-1.
 
-## Topics
+The goal is to build practical Linux skills for Web Operations, Cloud Support, and DevOps-oriented roles.
 
-- File system structure
-- Users and groups
-- Permissions
+## Topics Covered
+
+- Linux filesystem structure
+- Users, groups, and permissions
 - Process management
 - Package management
 - Networking basics
 - systemd services
 - Bash scripting
 - Logs and monitoring
+- Cron jobs and backups
+
+## Repository Structure
+
+linux-admin-labs/
+├── 01-file-system/
+├── 02-users-groups-permissions/
+├── 03-process-management/
+├── 04-package-management/
+├── 05-networking-basics/
+├── 06-systemd-services/
+├── 07-bash-scripting/
+├── 08-logs-monitoring/
+└── 09-backup-cron/
 
 ## Purpose
 
