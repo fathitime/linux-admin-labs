@@ -18,6 +18,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 
 ## Repository Structure
 
+```text
 linux-admin-labs/
 ├── 01-file-system/
 ├── 02-users-groups-permissions/
