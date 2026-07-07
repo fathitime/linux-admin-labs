@@ -23,6 +23,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 10-package-management-rpm | DNF and RPM package management | Completed |
 | 11-linux-as-virtual-machine-guest | Linux as a virtual machine guest | Completed |
 | 12-command-line-basics | Bash shell, environment variables, history, PATH | Completed |
+| 13-text-stream-filters | Text stream filters: cat, head, tail, cut, sort, uniq, sed, tr, wc, hashes | Completed |
 ---
 
 ## Topics Covered
@@ -36,6 +37,13 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - systemd targets
 - Traditional Linux runlevels
 - Shutdown and reboot commands
+- Text stream filters
+- Viewing text files
+- Sorting and removing duplicates
+- Cutting fields and characters
+- Stream editing with sed
+- Character translation with tr
+- File hashing with md5sum, sha256sum, and sha512sum
 
 ---
 
