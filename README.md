@@ -25,6 +25,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 12-command-line-basics | Bash shell, environment variables, history, PATH | Completed |
 | 13-text-stream-filters | Text stream filters: cat, head, tail, cut, sort, uniq, sed, tr, wc, hashes | Completed |
 | 14-basic-file-management | LPIC-1 103.3: file management, globbing, find, tar, cpio, dd, compression | Completed |
+| 15-streams-pipes-redirection | LPIC-1 103.4: stdin, stdout, stderr, redirects, pipes, xargs, tee | Completed |
 ---
 
 ## Topics Covered
@@ -51,6 +52,13 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - Archiving with tar and cpio
 - Compression with gzip, bzip2, and xz
 - Safe usage of destructive commands
+- Standard input, output, and error streams
+- Redirection with `>`, `>>`, `2>`, `2>>`, `&>`, and `&>>`
+- Pipes for command chaining
+- Using `xargs`
+- Using `tee`
+- Here-documents
+- Basic log processing pipelines
 
 ---
 
@@ -88,14 +96,22 @@ linux-admin-labs/
 │   └──commands.md
 │   └──sample.txt
 ├── 14-basic-file-management/
-├── README.md
-├── commands.md
-├── lab-setup.sh
-├── file-globbing.md
-├── find-examples.md
-├── archive-compression.md
-├── dd-notes.md
-└── safety-notes.md
+│   └── README.md
+│   └── commands.md
+│   └──lab-setup.sh
+│   └── file-globbing.md
+│   └── find-examples.md
+│   └── archive-compression.md
+│   └── dd-notes.md
+│   └── safety-notes.md
+├── 14-streams-pipes-redirection
+│   └── README.md
+│   └── here-documents.md
+│   └── lab-setup.sh
+│   └── pipes.md
+│   └── redirection.md
+│   └── tee.md
+│   └── xargs.md
 └── README.md
 ```
 
