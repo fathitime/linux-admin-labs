@@ -30,7 +30,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 ## Topics Covered
 
 - Linux lab setup
-- Ubuntu and Fedora installation
+- Ubuntu, Fedora, and Kali installation
 - Hardware inspection commands
 - Linux boot process
 - BIOS / UEFI concepts
@@ -109,6 +109,7 @@ Distributions used:
 
 - Ubuntu
 - Fedora
+- Kali
 
 The purpose of using multiple distributions is to become familiar with both Debian-based and Red Hat-based Linux environments.
 
