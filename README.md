@@ -106,8 +106,8 @@ linux-admin-labs/
 │   └── safety-notes.md
 ├── 14-streams-pipes-redirection
 │   └── README.md
-│   └── here-documents.md
 │   └── lab-setup.sh
+│   └── here-documents.md
 │   └── pipes.md
 │   └── redirection.md
 │   └── tee.md
