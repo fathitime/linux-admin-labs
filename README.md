@@ -26,6 +26,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 13-text-stream-filters | Text stream filters: cat, head, tail, cut, sort, uniq, sed, tr, wc, hashes | Completed |
 | 14-basic-file-management | LPIC-1 103.3: file management, globbing, find, tar, cpio, dd, compression | Completed |
 | 15-streams-pipes-redirection | LPIC-1 103.4: stdin, stdout, stderr, redirects, pipes, xargs, tee | Completed |
+| 16-process-management | LPIC-1 103.5: jobs, processes, signals, monitoring, nohup, screen, tmux | Completed |
 ---
 
 ## Topics Covered
@@ -59,7 +60,12 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - Using `tee`
 - Here-documents
 - Basic log processing pipelines
-
+- Foreground and background jobs
+- Linux process monitoring
+- CPU and memory monitoring
+- Process signals and termination
+- Persistent commands with nohup
+- Terminal multiplexing with screen and tmux
 ---
 
 ## Repository Structure
@@ -104,7 +110,7 @@ linux-admin-labs/
 │   └── archive-compression.md
 │   └── dd-notes.md
 │   └── safety-notes.md
-├── 14-streams-pipes-redirection
+├── 15-streams-pipes-redirection
 │   └── README.md
 │   └── lab-setup.sh
 │   └── here-documents.md
@@ -112,6 +118,15 @@ linux-admin-labs/
 │   └── redirection.md
 │   └── tee.md
 │   └── xargs.md
+├── 16-process-management
+│   └── README.md
+│   └── lab-setup.sh
+│   └── jobs-and-background.md 
+│   └── signals-and-termination.md
+│   └── process-monitoring.md
+│   └── process-report.sh
+│   └── persistent-sessions.md
+│   └── persistent-sessions.md
 └── README.md
 ```
 
