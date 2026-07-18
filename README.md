@@ -27,6 +27,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 14-basic-file-management | LPIC-1 103.3: file management, globbing, find, tar, cpio, dd, compression | Completed |
 | 15-streams-pipes-redirection | LPIC-1 103.4: stdin, stdout, stderr, redirects, pipes, xargs, tee | Completed |
 | 16-process-management | LPIC-1 103.5: jobs, processes, signals, monitoring, nohup, screen, tmux | Completed |
+| 17-process-priorities | LPIC-1 103.6: nice, renice, ps, top, and CPU scheduling priorities | Studied |
 ---
 
 ## Topics Covered
@@ -66,6 +67,11 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - Process signals and termination
 - Persistent commands with nohup
 - Terminal multiplexing with screen and tmux
+- Linux process execution priorities
+- Nice values and CPU scheduling
+- Starting processes with `nice`
+- Changing priorities with `renice`
+- Monitoring `NI` and `PRI` using `ps` and `top`
 ---
 
 ## Repository Structure
@@ -127,6 +133,13 @@ linux-admin-labs/
 │   └── process-report.sh
 │   └── persistent-sessions.md
 │   └── persistent-sessions.md
+├── 17-process-priorities
+│   └── README.md
+│   └── monitoring-priorities.md
+│   └── nice-and-renice.md
+│   └── priority-lab.sh
+│   └── practice-summary.md
+│   └── safety-notes.md
 └── README.md
 ```
 
