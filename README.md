@@ -27,7 +27,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 14-basic-file-management | LPIC-1 103.3: file management, globbing, find, tar, cpio, dd, compression | Completed |
 | 15-streams-pipes-redirection | LPIC-1 103.4: stdin, stdout, stderr, redirects, pipes, xargs, tee | Completed |
 | 16-process-management | LPIC-1 103.5: jobs, processes, signals, monitoring, nohup, screen, tmux | Completed |
-| 17-process-priorities | LPIC-1 103.6: nice, renice, ps, top, and CPU scheduling priorities | Studied |
+| 17-process-priorities | LPIC-1 103.6: nice, renice, ps, top, and CPU scheduling priorities | Completed |
 ---
 
 ## Topics Covered
