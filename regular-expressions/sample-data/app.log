@@ -1,0 +1,10 @@
+2026-07-22 08:10:12 INFO Application started
+2026-07-22 08:11:03 INFO User mohammad logged in from 192.168.1.15
+2026-07-22 08:12:44 WARNING Disk usage reached 82 percent
+2026-07-22 08:13:21 ERROR Database connection failed
+2026-07-22 08:14:08 INFO User sara logged in from 10.0.0.24
+2026-07-22 08:15:17 DEBUG Cache key user_194 created
+2026-07-22 08:16:31 ERROR Authentication failed for user guest
+2026-07-22 08:17:05 WARNING Memory usage reached 76 percent
+2026-07-22 08:18:42 INFO Backup completed
+2026-07-22 08:19:03 INFO Application stopped
