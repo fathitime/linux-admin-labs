@@ -1,0 +1,6 @@
+SERVER_NAME=linux-lab
+SERVER_PORT=8080
+DEBUG=true
+BACKUP_PATH=/var/backups/linux-lab
+MAX_CONNECTIONS=100
+EMPTY_VALUE=
