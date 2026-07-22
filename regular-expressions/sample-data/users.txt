@@ -1,0 +1,6 @@
+mohammad@example.com
+sara.admin@example.org
+invalid-email
+ali123@example.net
+USER@example.com
+reza@example
