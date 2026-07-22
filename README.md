@@ -28,6 +28,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 15-streams-pipes-redirection | LPIC-1 103.4: stdin, stdout, stderr, redirects, pipes, xargs, tee | Completed |
 | 16-process-management | LPIC-1 103.5: jobs, processes, signals, monitoring, nohup, screen, tmux | Completed |
 | 17-process-priorities | LPIC-1 103.6: nice, renice, ps, top, and CPU scheduling priorities | Completed |
+| 18-regular-expressions | LPIC-1 103.7: grep, grep -E, grep -F, sed, BRE, ERE, and log analysis | Practiced |
 ---
 
 ## Topics Covered
@@ -72,6 +73,13 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - Starting processes with `nice`
 - Changing priorities with `renice`
 - Monitoring `NI` and `PRI` using `ps` and `top`
+- Basic and Extended Regular Expressions
+- Searching files with grep
+- Fixed-string searching with grep -F
+- Recursive filesystem searches
+- Anchors, character classes, quantifiers, and alternation
+- Text substitution and deletion with sed
+- Regex-based log analysis
 ---
 
 ## Repository Structure
@@ -140,6 +148,18 @@ linux-admin-labs/
 │   └── priority-lab.sh
 │   └── practice-summary.md
 │   └── safety-notes.md
+├── 18-regular-expressions/
+├── README.md
+├── regex-cheatsheet.md
+├── grep-lab.md
+├── sed-lab.md
+├── regex-report.sh
+├── sample-data/
+│   ├── app.log
+│   ├── users.txt
+│   └── config.txt
+├── evidence/
+|    └── README.md
 └── README.md
 ```
 
