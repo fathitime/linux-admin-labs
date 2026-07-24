@@ -162,11 +162,11 @@ linux-admin-labs/
 │   └── sed-lab.md
 │   └── regex-report.sh
 │   └── sample-data/
-│   |   └── app.log
-│   |   └── users.txt
-│   |   └── config.txt
-│   |   └──evidence/
-│   |      └── README.md
+│       └── app.log
+│       └── users.txt
+│       └── config.txt
+│       └──evidence/
+│          └── README.md
 ├──19-basic-file-editing/
 │   └── README.md
 │   └── vi-cheatsheet.md
