@@ -29,6 +29,7 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 | 16-process-management | LPIC-1 103.5: jobs, processes, signals, monitoring, nohup, screen, tmux | Completed |
 | 17-process-priorities | LPIC-1 103.6: nice, renice, ps, top, and CPU scheduling priorities | Completed |
 | 18-regular-expressions | LPIC-1 103.7: grep, grep -E, grep -F, sed, BRE, ERE, and log analysis | Practiced |
+| 19-basic-file-editing | LPIC-1 103.8: vi navigation, editing, search, copy, paste, save, and EDITOR | Practiced |
 ---
 
 ## Topics Covered
@@ -80,6 +81,12 @@ The goal is to build practical Linux skills for Web Operations, Cloud Support, a
 - Anchors, character classes, quantifiers, and alternation
 - Text substitution and deletion with sed
 - Regex-based log analysis
+- Basic file editing with vi and Vim
+- vi navigation and editor modes
+- Inserting, deleting, copying, and pasting text
+- Searching inside files
+- Saving and discarding file changes
+- Configuring EDITOR and VISUAL
 ---
 
 ## Repository Structure
