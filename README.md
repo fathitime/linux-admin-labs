@@ -156,17 +156,27 @@ linux-admin-labs/
 │   └── practice-summary.md
 │   └── safety-notes.md
 ├── 18-regular-expressions/
-├── README.md
-├── regex-cheatsheet.md
-├── grep-lab.md
-├── sed-lab.md
-├── regex-report.sh
-├── sample-data/
-│   ├── app.log
-│   ├── users.txt
-│   └── config.txt
-├── evidence/
-|    └── README.md
+│   └── README.md
+│   └── regex-cheatsheet.md
+│   └── grep-lab.md
+│   └── sed-lab.md
+│   └── regex-report.sh
+│   └── sample-data/
+│   |   └── app.log
+│   |   └── users.txt
+│   |   └── config.txt
+│   |   └──evidence/
+│   |      └── README.md
+├──19-basic-file-editing/
+│   └── README.md
+│   └── vi-cheatsheet.md
+│   └── practice-checklist.md
+│   └── default-editor.md
+│   └── sample-data/
+│       └── app.conf
+│       └── deployment-notes.txt
+│       └── evidence/
+│           └── README.md
 └── README.md
 ```
 
