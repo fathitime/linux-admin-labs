@@ -1,0 +1,14 @@
+Linux Lab Deployment Notes
+
+The application is currently running in development mode.
+The HTTP service listens on port 8080.
+Debug logging is enabled.
+Backups are currently disabled.
+The backup directory is /tmp/backups.
+The administrator email is admin@example.com.
+
+TODO:
+Review the production configuration.
+Enable daily backups.
+Change the log level to info.
+Document the deployment process.
